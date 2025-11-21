@@ -9,5 +9,5 @@ package qlstk.model.interfaces;
  * @author Admin
  */
 public interface IAutoId {
-    
+   
 }
